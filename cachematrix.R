@@ -1,3 +1,4 @@
+## Programming Assignment 2 Solution
 ## Underlying are a couple of functions that cache the inverse of a matrix.
 ## Here the functions combine to compute a inverse if a matrix ut before reversing, it checks
 ## if the cache already holds the required inverse of the gien matrix.
